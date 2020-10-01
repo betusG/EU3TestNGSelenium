@@ -1,0 +1,2 @@
+some text here
+//Users/betulgurbuz/IdeaProjects/EU3TestNGSelenium/src/test/resources/textfile.txt
